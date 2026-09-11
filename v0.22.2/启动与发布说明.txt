@@ -1,0 +1,7 @@
+﻿最后一班岗 v0.22.2
+
+新玩家：运行 CastleLauncher.exe，按启动器提示选择游戏安装位置。
+已有玩家：维护者发布本版后，在启动器检查更新。
+
+发布者：在 GitHub 创建 v0.22.2 Release，将本目录 update.json、所有 ZIP、CastleLauncher.exe 和 SHA256SUMS.txt 作为附件上传，并粘贴更新日志.md 的内容。请勿直接把这些大文件提交为 Git 仓库源码。
+所有联机玩家应使用相同版本。
